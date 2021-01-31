@@ -135,7 +135,6 @@ class Student {
 	public String toString() {
 		return String.format("이름 : %s\n학과 : %s\n학번 : %s\n학점평균 : %s", name,major,grade,score);
 	}
-	
 }
 
 class Hw1No5 {
